@@ -79,3 +79,20 @@ body{
     font-size: small;
     bottom: 60px;
 }
+.tecsBox{
+    color: aliceblue;
+    background-color:  rgb(31, 18, 39);
+    border-radius: 50px;
+    display: inline-flex;
+    text-align: center;
+    justify-content: center;
+    margin-top: 100px;
+    width: 400px;
+    height: 100px;
+}
+.tecsScroll{
+    display: inline-flex;
+}
+#tecsList li{
+    display: inline-block;
+}
